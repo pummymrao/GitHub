@@ -1,0 +1,4 @@
+psft_base_dir=/opt/psoft/pstools
+env_type=midtier
+customization_file=/work/DPK/psft_customizations.yaml
+patches_dir=/work/DPK/patches
